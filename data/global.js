@@ -2432,7 +2432,7 @@ const global = [
   {
     id: "901",
     category: "Business Strategy",
-    image: "https://img-c.udemycdn.com/course/480x270/654321_987q_1.jpg",
+    imag  : "https://img-c.udemycdn.com/course/480x270/654321_987q_1.jpg",
     imagetitle: "Strategic Planning: Developing a Roadmap for Success",
     field: "Victoria Robinson",
     ratings: "4.8 ⭐⭐⭐⭐⭐(18,765)",
