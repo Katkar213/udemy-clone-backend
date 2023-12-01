@@ -1,8 +1,8 @@
 const routes=require("express").Router()
-const {alldata,postdata,getdata}=require("../controller/controller")
+const {alldata}=require("../controller/controller")
 
 routes.get("/alldata",alldata)
-routes.post("/postdata",postdata)
-routes.get("/getdata",getdata)
+// routes.post("/postdata",postdata)
+// routes.get("/getdata",getdata)
 
 module.exports=routes;
