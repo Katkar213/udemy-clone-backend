@@ -1,20 +1,20 @@
 const globaldata=require("../data/global")
-// const {UdemyDataBase}=require("../model/model")
+const {UdemyDataBase}=require("../model/model")
 
-// const postdata=async(req,res)=>{
+const postdata=async(req,res)=>{
 
-//      const postdata= await UdemyDataBase.create(globaldata);
+     const postdata= await UdemyDataBase.create(globaldata);
     
-//   console.log(postdata)
-//   res.send(postdata)
-// console.log("data added")    
-// }
+  console.log(postdata)
+  res.send(postdata)
+console.log("data added")    
+}
 
-// const getdata=async (req,res)=>{
-//     const gettingdata= await UdemyDataBase.find({});
-//     console.log(gettingdata)
-//     res.send(gettingdata)
-//   }
+const getdata=async (req,res)=>{
+    const gettingdata= await UdemyDataBase.find({});
+    console.log(gettingdata)
+    res.send(gettingdata)
+  }
 const alldata=(req,res)=>{
     res.send(globaldata)
    
@@ -22,4 +22,4 @@ const alldata=(req,res)=>{
 }
 
 
-module.exports={alldata};
+module.exports={alldata,getdata,postdata};
