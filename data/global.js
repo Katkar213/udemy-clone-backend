@@ -369,9 +369,9 @@ const global = [
 
   { //data-science
     id: "50",
-    category: "Data-Science",
+    category: "Data Science",
     field: "Jose Portilla",
-    image: "https://img-c.udemycdn.com/course/480x270/1430764_2f43_3.jpg",
+    image: "https://img-c.udemycdn.com/course/240x135/2511476_4e38_5.jpg",
     imagetitle: "Python for Data Science and Machine Learning Bootcamp",
     Rating: "4.7 ⭐⭐⭐⭐⭐(123,456)",
     totalhours: "35",
@@ -383,7 +383,7 @@ const global = [
   },
   {
     id: "51",
-    category: "Data-Science",
+    category: "Data Science",
     field: "Kirill Eremenko",
     image: "	https://img-c.udemycdn.com/course/240x135/257414_dc4d_2.jpg",
     imagetitle: "Data Science and Machine Learning Bootcamp with R",
@@ -397,7 +397,7 @@ const global = [
   },
   {
     id: "52",
-    category: "Data-Science",
+    category: "Data Science",
     field: "Andrew Ng",
     image: "https://img-c.udemycdn.com/course/240x135/950390_270f_3.jpg",
     imagetitle: "Machine Learning",
@@ -509,7 +509,7 @@ const global = [
   },
   {
     id: "53",
-    category: "Data-Science",
+    category: "Data Science",
     field: "Pandas",
     image: "https://img-c.udemycdn.com/course/240x135/753140_f3f3_2.jpg",
     imagetitle: "Data Science: Deep Learning in Python",
@@ -523,7 +523,7 @@ const global = [
   },
   {
     id: "54",
-    category: "Data-Science",
+    category: "Data Science",
     field: "Data Visualization",
     image: "https://img-c.udemycdn.com/course/240x135/671576_a272_4.jpg",
     imagetitle: "Data Science and Machine Learning Bootcamp with Tableau",
@@ -537,7 +537,7 @@ const global = [
   },
   {
     id: "55",
-    category: "Data-Science",
+    category: "Data Science",
     field: "Data Analysis",
     image: "https://img-c.udemycdn.com/course/240x135/932344_e14a_2.jpg",
     imagetitle: "Data Science and Machine Learning Bootcamp with Excel",
@@ -1325,7 +1325,7 @@ const global = [
     id: "106",
     category: "Business",
     field: "Maven Analytics, Chris Dutton, Aaron Parry",
-    image: "https://img-c.udemycdn.com/course/240x135/613808_3c1c_6.jpg",
+    image: "https://img-c.udemycdn.com/course/240x135/14284_6833_17.jp",
     imagetitle: "Microsoft Power BI Desktop for Business Intelligence (2023)",
     Rating: "4.7 ⭐⭐⭐⭐⭐(7,511)",
     totalhours: "3.5",
@@ -3538,7 +3538,7 @@ const global = [
   // it certification
   {
     id: "810",
-    category: "IT certification",
+    category: "IT Certification",
     field: "Artificial Intelligence",
     image: "https://img-c.udemycdn.com/course/240x135/2196488_8fc7_10.jpg",
     imagetitle: "Artificial Intelligence: Learn the Fundamentals",
@@ -3552,7 +3552,7 @@ const global = [
   },
   {
     id: "807",
-    category: "IT certification",
+    category: "IT Certification",
     field: "Machine Learning",
     image: "https://img-c.udemycdn.com/course/240x135/866196_be1d.jpg",
     imagetitle: "Machine Learning: A Comprehensive Guide",
@@ -3566,7 +3566,7 @@ const global = [
   },
   {
     id: "808",
-    category: "IT certification",
+    category: "IT Certification",
     field: "DevOps Practices",
     image: "https://img-c.udemycdn.com/course/240x135/751094_fb27_2.jpg",
     imagetitle: "DevOps: Implementing Continuous Integration and Delivery",
@@ -3580,7 +3580,7 @@ const global = [
   },
   {
     id: "809",
-    category: "IT certification",
+    category: "IT Certification",
     field: "Blockchain Technology",
     image: "https://img-c.udemycdn.com/course/240x135/2015076_2944_7.jpg",
     imagetitle: "Blockchain Technology: A Complete Introduction",
@@ -3705,7 +3705,7 @@ const global = [
   },
   {
     id: "1807",
-    category: "IT certification", field: "Firewall Administration",
+    category: "IT Certification", field: "Firewall Administration",
     image: "https://img-c.udemycdn.com/course/240x135/62109_9be0_8.jpg",
     imagetitle: "Firewall Administration: Hands-On Training",
     Rating: "4.9 ⭐⭐⭐⭐⭐(12,345)",
