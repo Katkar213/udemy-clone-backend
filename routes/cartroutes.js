@@ -7,7 +7,7 @@ router.post('/addToCart', addToCart)
     //   .delete('/:id', deleteFromCart)
 
 router.get("/getcartdata",getCartData);
-router.post("/removeitem",removecartitem)
+router.post("/removeitem",removecartitem);
 
 router.post("/pushlearningdata",pushlearning);
 router.get("/getlearningdata",getlearning);
