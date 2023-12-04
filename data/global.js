@@ -10799,7 +10799,45 @@ const global = [
     quantity: 1,
     description: "Cultivate mindfulness through yoga meditation practices in this comprehensive course for individuals looking to integrate meditation into their yoga journey."
   },
+{
+  category:"Home",
+     
+  image:"https://img-c.udemycdn.com/course/240x135/567828_67d0.jpg",
+  field:"JOse Portilla",
+  Rating:"4.5rating ⭐⭐⭐⭐⭐",
+  latestprice:389,
+  oldprice:"₹3199"
 
+},
+{
+  category:"Home",
+     
+  image:"https://img-c.udemycdn.com/course/240x135/543600_64d1_4.jpg",
+  field:"Mac Hardle",
+  Rating:"4.6star ⭐⭐⭐⭐⭐",
+  latestprice:389,
+  oldprice:"₹3199"
+
+},
+{
+  category:"Home",
+     
+  image:"https://img-c.udemycdn.com/course/240x135/2776760_f176_10.jpg",
+  field:"Dr.Angelina",
+  Rating:"4.5 star ⭐⭐⭐⭐⭐",
+  latestprice:389,
+  oldprice:"₹3199"
+
+},{
+  category:"Home",
+     
+  image:"https://img-c.udemycdn.com/course/240x135/950390_270f_3.jpg",
+  field:"JOse Portilla",
+  Rating:"4.7 star ⭐⭐⭐⭐⭐",
+  latestprice:389,
+  oldprice:"₹3199"
+
+}
 
 
 
