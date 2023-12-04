@@ -33,7 +33,7 @@ app.use("/api",router)
       payment_method_types:["card"],
        line_items:lineItems,
       mode:"payment",
-      success_url:"http://lacalhost:4001/",
+      success_url:"https://gleeful-tanuki-2ced66.netlify.app/",
       cancel_url:"http://lacalhost:4001/",
   
   
