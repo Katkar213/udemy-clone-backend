@@ -574,7 +574,7 @@ const global = [
     id: "57",
     category: "Game-Development",
     field: "Jonathan Weinberger",
-    image: "https://img-c.udemycdn.com/course/240x135/911298_a9f6.jpg 1x, https://img-c.udemycdn.com/course/480x270/911298_a9f6.jpg 2x",
+    image: "https://img-c.udemycdn.com/course/240x135/2259120_305f_6.jpg",
     imagetitle: "Learn Python by Making Games",
     Rating: "4.7 ⭐⭐⭐⭐⭐(87,654)",
     totalhours: "34",
